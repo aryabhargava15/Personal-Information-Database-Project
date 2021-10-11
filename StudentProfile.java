@@ -1,5 +1,4 @@
 package tuckerproject;
-//https://github.com/aryabhargava/MyPersonalProject.git
 //author Arya Bhargava , Tucker HS
 import java.io.BufferedReader;
 import java.io.FileInputStream;
